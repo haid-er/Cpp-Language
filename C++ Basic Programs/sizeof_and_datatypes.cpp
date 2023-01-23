@@ -1,15 +1,15 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
 int main()
 {
         int x;
-        system("cls");//used for clear screen
+        system("cls"); // used for clear screen
         // string name;
         // int id;
         // char gender;
         // float gpa;
-        // double x=6.02e23;  
+        // double x=6.02e23;
         // cout<<"Enter name:"<<endl;
         // cin>>name;
         // cout<<"Enter id:"<<endl;
@@ -23,9 +23,9 @@ int main()
         // x=sizeof(int);//used to find the size of variable
         // cout<<x<<endl;
         // cout<<sizeof(double)<<endl;
-        //OPERATORS->Arithmatic Oprators  + , - , * , / , % (Modulus Operator)
-        //Modulus operator return us remainder
-        //5/2=2   5%2=1
-        
+        // OPERATORS->Arithmatic Oprators  + , - , * , / , % (Modulus Operator)
+        // Modulus operator return us remainder
+        // 5/2=2   5%2=1
+
         return 0;
 }
